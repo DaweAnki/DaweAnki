@@ -16,7 +16,7 @@
 ## 📂 Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Zomato Restaurant Analysis](https://github.com/DaweAnki/zomato-restaurant-analysis) | EDA of 51,717 Bangalore restaurants to uncover rating, cuisine and cost trends | Python, Pandas, NumPy, Matplotlib |
+| [Zomato Restaurant Analysis](https://github.com/DaweAnki/zomato-restaurant-analysis) | EDA of 51,717 Bangalore restaurants + Power BI Dashboard to uncover rating, cuisine and cost trends | Python, Pandas, NumPy, Matplotlib, Power BI |
 | Sales Analysis | Analyzed electrical appliance sales data to uncover revenue patterns and peak seasons | Python, Pandas, NumPy, Matplotlib |
 | Movie Recommendation System | Built a content-based recommender using cosine similarity | Python, TMDB Dataset, Sklearn |
 
