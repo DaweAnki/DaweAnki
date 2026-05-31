@@ -8,14 +8,15 @@
 
 ## 🛠️ Skills
 - **Languages:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **BI Tools:** Microsoft Power BI, Microsoft Excel
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
+- **BI & Visualization Tools:** Microsoft Power BI, Microsoft Excel, Streamlit  
 - **Database:** SQL (Basic)
-- **Others:** Data Cleaning, Data Visualization, Statistical Analysis, EDA
+-**Other Skills:** Data Cleaning, Data Visualization, Statistical Analysis, Exploratory Data Analysis (EDA)
 
 ## 📂 Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
+| [Customer Churn Prediction](https://github.com/DaweAnki/customer-churn-analysis) | Built Logistic Regression model with **84% ROC-AUC** + interactive dashboard (Power BI & Streamlit) to identify at-risk customers | Python, Pandas, Scikit-learn, Power BI, Streamlit |
 | [Zomato Restaurant Analysis](https://github.com/DaweAnki/zomato-restaurant-analysis) | EDA of 51,717 Bangalore restaurants + Power BI Dashboard to uncover rating, cuisine and cost trends | Python, Pandas, NumPy, Matplotlib, Power BI |
 | Sales Analysis | Analyzed electrical appliance sales data to uncover revenue patterns and peak seasons | Python, Pandas, NumPy, Matplotlib |
 | Movie Recommendation System | Built a content-based recommender using cosine similarity | Python, TMDB Dataset, Sklearn |
