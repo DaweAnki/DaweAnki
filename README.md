@@ -1,31 +1,39 @@
-# Hi there, I'm Ankita Daweshar! 👋
+# Hi there, I'm Ankita Daweshar 👋
 
-## 🙋 About Me
-- 🎓 B.Sc. Data Science Graduate – Asansol Engineering College (2025)
-- 🔍 Actively seeking **Data Analyst** | **Business Analyst** roles across India
+## About Me
+- 🎓 B.Sc. Data Science Graduate — Asansol Engineering College (2025)
+- 🔍 Actively seeking **Data Analyst | Business Analyst** roles across India
 - 📍 Based in Asansol, West Bengal, India
-- 🖥️ Open to Remote | Hybrid | On-site opportunities
+- 💻 Open to Remote | Hybrid | On-site opportunities
+- 🛠️ I turn raw data into decision-ready dashboards and predictive models
 
-## 🛠️ Skills
-- **Languages:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
-- **BI & Visualization Tools:** Microsoft Power BI, Microsoft Excel, Streamlit  
-- **Database:** SQL (Basic)
-- **Other Skills:** Data Cleaning, Data Visualization, Statistical Analysis, Exploratory Data Analysis (EDA)
+## Experience
 
-## 📂 Projects
+**Data Analyst Intern — Elevate Labs** | May 2026 – Jul 2026 | Remote
+- Owned end-to-end analytics delivery — ETL, data wrangling, and Power BI dashboard deployment — across HR and customer intelligence workstreams
+- Built DAX measures for multi-page Power BI dashboards surfacing real-time KPIs
+- Developed a Random Forest classifier reaching 88.1% accuracy to inform retention strategy
+- *Program certified under Skill India & MSME, Ministry of Govt. of India*
+
+## Skills
+- **Languages:** Python, SQL (Basic)
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **BI & Visualization:** Microsoft Power BI, DAX, Microsoft Excel, Streamlit
+- **Analytics:** Data Wrangling, EDA, Statistical Analysis (Chi-Square, T-Tests), ETL, Predictive Analytics
+
+## Projects
+
 | Project | Description | Tools |
-|---------|-------------|-------|
-| [Customer Churn Prediction](https://github.com/DaweAnki/customer-churn-analysis) | ML Model: Developed Logistic Regression model achieving **84% ROC-AUC...** + interactive dashboard (Power BI & Streamlit) to identify at-risk customers | Python, Pandas, Scikit-learn, Power BI, Streamlit |
-| [Zomato Restaurant Analysis](https://github.com/DaweAnki/zomato-restaurant-analysis) | EDA of 51,717 Bangalore restaurants + Power BI Dashboard to uncover rating, cuisine and cost trends | Python, Pandas, NumPy, Matplotlib, Power BI |
-| Sales Analysis | Analyzed electrical appliance sales data to uncover revenue patterns and peak seasons | Python, Pandas, NumPy, Matplotlib |
-| Movie Recommendation System | Built a content-based recommender using cosine similarity | Python, TMDB Dataset, Scikit-learn |
+|---|---|---|
+| [HR Analytics — Employee Attrition Prediction](https://github.com/DaweAnki/HR-Attrition-Analysis) | Random Forest model on 1,470 employee records reaching 88.1% accuracy; 3-page Power BI dashboard identifying overtime, income, and age as top attrition drivers | Python, Scikit-learn, Power BI, DAX |
+| [Customer Churn Analysis & Prediction System](https://github.com/DaweAnki/customer-churn-analysis) · [Live App](https://ankita-customer-churn.streamlit.app) | EDA on 7,000+ telecom records; Random Forest model at 84% ROC-AUC; deployed live Streamlit app for real-time churn prediction | Python, Pandas, Scikit-learn, Power BI, Streamlit |
+| [E-Commerce Return Rate Reduction Analysis](https://github.com/DaweAnki/Ecommerce-Return-Rate-Analysis) | Analyzed 5,000 orders with Logistic Regression (71% accuracy) to predict return probability; 4-page Power BI dashboard with business recommendations | Python, Scikit-learn, Power BI |
 
-## 🏅 Certifications
-- 🥇 Data Analytics Masterclass – NoviTech R&D Pvt Ltd (2026)
-- 🥇 Business Intelligence Fundamentals – Simplilearn (2024)
-- 🥇 Python Fundamentals – NASSCOM (2023)
+## Certifications
+- 🥇 Data Analytics Masterclass — NoviTech R&D Pvt Ltd (2026)
+- 🥇 Business Intelligence Fundamentals — Simplilearn (2024)
+- 🥇 Python Fundamentals — NASSCOM (2023)
 
-## 📫 Connect With Me
+## Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/ankita-daweshar-4a820b318)
 - 📧 daweshara@gmail.com
